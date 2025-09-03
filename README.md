@@ -1,3 +1,3 @@
 # Portfolio
 
-A collection of selected projects I've built.
+A collection of selected projects I've done.
